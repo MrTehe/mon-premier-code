@@ -8,4 +8,4 @@ while depart > 0:
     print(f"{depart}...")
     depart = depart - 1
 
-print("DÉCOLLAGE ! 🚀")
+print("DÉCOLLAGE NOW ! 🚀")
