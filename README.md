@@ -6,7 +6,7 @@ Ce dépôt trace ma progression depuis mes débuts en Python jusqu'à mon object
 ## 💻 Environnement de travail
 - **Machine :** ThinkPad P14s Gen 5 (AMD Ryzen 7 Pro)
 - **OS :** Debian 13.2 (Trixie)
-- **Outils :** VS Code conteneurisé (Docker), Git, Gumloop pour l'automatisation.
+- **Outils :** VS Code conteneurisé (Docker), Git.
 
 ## 📚 Roadmap & Compétences (TSSR)
 - [x] Installation de l'environnement (Debian + Docker + VS Code)
@@ -22,4 +22,4 @@ Ce dépôt trace ma progression depuis mes débuts en Python jusqu'à mon object
 - `boucle.py` : Maîtrise des itérations.
 
 ---
-*Note : Ce projet est documenté pour préparer mon entrée en TSSR à l'AFPA en septembre 2027.*
+*Note : Ce projet est documenté pour préparer mon entrée en TSSR.*
