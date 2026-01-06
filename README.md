@@ -15,6 +15,9 @@ Ce dépôt trace ma progression depuis mes débuts en Python jusqu'à mon object
 - [ ] Notions Réseaux (Modèle OSI, IP, Subnetting)
 
 ## 🛠️ Exercices terminés
+- `bases.py` : Les Variables (La Mémoire).
+- `pratice_bases.py` : Variables + opérations (La Mémoire + La Calculatrice), exercice pratique.
+- `interactif.py` : Rendre ton programme interactif 🗣️ `input/int`.
 - `age_checker.py` : Apprentissage des conditions `if/else`.
 - `boucle.py` : Maîtrise des itérations.
 
