@@ -20,6 +20,7 @@ Ce dépôt trace ma progression depuis mes débuts en Python jusqu'à mon object
 - `interactif.py` : Rendre ton programme interactif 🗣️ `input/int`.
 - `age_checker.py` : Apprentissage des conditions `if/else`.
 - `boucle.py` : Maîtrise des itérations.
+- `password_check.py` : Le Vérificateur de Mot de Passe (Password Strength) `len()`.
 
 ---
 *Note : Ce projet est documenté pour préparer mon entrée en TSSR.*
