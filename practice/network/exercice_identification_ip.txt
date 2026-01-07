@@ -1,0 +1,5 @@
+Exercice pratique
+    1.  Tapez ip a dans votre terminal Debian.
+    2.  Identifiez votre adresse IP locale et votre masque (le chiffre après le slash).
+    3.  Le défi du mentor : Pouvez-vous trouver l'adresse IP de votre "Passerelle" (votre Box internet) ?
+        Indice : Utilisez la commande ip route. L'adresse après default via est celle de votre Box.

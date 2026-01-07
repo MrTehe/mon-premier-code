@@ -1,0 +1,20 @@
+Signification : OSI signifie Open Systems Interconnection (Interconnexion de systèmes ouverts).
+-
+Qui l'a mis en place ? Il a été conçu par l'ISO (Organisation internationale de normalisation) en 1984.
+-
+Pourquoi ? À l'époque, chaque constructeur (IBM, Apple, Microsoft) avait sa propre façon de faire communiquer ses machines. L'ISO a créé ce modèle pour que tous les ordinateurs du monde parlent le même "langage" universel.
+-
+-
+-
+Pour bien comprendre, on lit toujours le modèle de la couche 7 (l'utilisateur) vers la couche 1 (le câble). Voici votre vision "Cyber" :
+-
+N°,Couche,Rôle simple,Exemple Cyber (Attaque/Défense)
+7,Application,"Ce que vous voyez (Navigateur, Email).",Phishing : Un faux mail pour voler un mot de passe.
+6,Présentation,"Le format des données (Chiffrement, Compression).",Ransomware : Chiffrement malveillant de vos fichiers.
+5,Session,"La ""conversation"" entre deux PC.",Session Hijacking : Voler le cookie de session d'une victime.
+4,Transport,Le transport (TCP ou UDP) et les Ports.,Port Scanning : Chercher une porte ouverte sur un serveur.
+3,Réseau,L'Adresse IP et le routage.,IP Spoofing : Usurper l'adresse IP d'une machine de confiance.
+2,Liaison,L'adresse physique (MAC) et le Switch.,ARP Spoofing : Intercepter les données entre un PC et la Box.
+1,Physique,"Le matériel (Câbles, Wi-Fi, signaux).",Hardware Keylogger : Une clé USB espionne branchée au PC.
+-
+L'astuce mnémotechnique : Pour retenir l'ordre (de 7 à 1), apprenez cette phrase : "Après Plusieurs Semaines Tout Ressemble à la Langue Physique".
