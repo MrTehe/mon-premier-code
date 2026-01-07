@@ -4,8 +4,6 @@
 Ce dépôt trace ma progression depuis mes débuts en Python jusqu'à mon objectif de Master Ingénieur en Cybersécurité.
 
 ## 💻 Environnement de travail
-- **Machine :** ThinkPad P14s Gen 5 (AMD Ryzen 7 Pro)
-- **OS :** Debian 13.2 (Trixie)
 - **Outils :** VS Code conteneurisé (Docker), Git.
 
 ## 📚 Roadmap & Compétences (TSSR)
