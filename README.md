@@ -15,11 +15,11 @@ Ce dépôt trace ma progression depuis mes débuts en Python jusqu'à mon object
 - [ ] Notions Réseaux (Modèle OSI, IP, Subnetting)
 
 ## 🛠️ Exercices terminés (TSSR)
-- `bases.py` : Les Variables (La Mémoire).
+- `bases.py` : Les Variables (La Mémoire) `print`.
 - `pratice_bases.py` : Variables + opérations (La Mémoire + La Calculatrice), exercice pratique.
 - `interactif.py` : Rendre ton programme interactif 🗣️ `input/int`.
 - `age_checker.py` : Apprentissage des conditions `if/else`.
-- `boucle.py` : Maîtrise des itérations.
+- `boucle.py` : Maîtrise des itérations `while`.
 - `password_check.py` : Le Vérificateur de Mot de Passe (Password Strength) `len()`.
 - `exercice_identification_ip` : Identifier votre identité réseau `ip a/ip route`.
 - `network_ping.py` : Python appliqué au Réseau (Le script de PING) `os/dotenv`.
