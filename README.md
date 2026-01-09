@@ -10,7 +10,7 @@ Ce dépôt trace ma progression depuis mes débuts en Python jusqu'à mon object
 - [x] Installation de l'environnement (Debian + Docker + VS Code)
 - [x] Initialisation de Git
 - [x] Fondamentaux Python (Boucles, Variables, Conditions)
-- [ ] Notions Réseaux (Modèle OSI, IP, Subnetting)
+- [x] Notions Réseaux (Modèle OSI, IP, Subnetting)
 - [ ] L'Administration Linux et la Sécurité des Utilisateurs !
 
 ## 🛠️ Exercices terminés (TSSR)
