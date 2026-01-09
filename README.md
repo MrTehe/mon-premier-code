@@ -25,6 +25,7 @@ Ce dépôt trace ma progression depuis mes débuts en Python jusqu'à mon object
 - `port_scanner` : La Couche 4 - Transport (TCP, UDP et les Ports) `nmap/socket`.
 - `web_requester` : La Couche 7 (HTTP) `requests`.
 - `exploration.txt`: Premier défi Linux : Exploration `pwd/ls`.
+- `challenge_user_&_group` : Passage à la pratique (Utilisateurs et Groupes) `su -/useradd/passwd/whoami`.
 
 ---
 *Note : Ce projet est documenté pour préparer mon entrée en TSSR.*

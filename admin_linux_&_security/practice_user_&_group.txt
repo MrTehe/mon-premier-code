@@ -1,0 +1,21 @@
+Connecte-toi à ta VM Debian avec ton compte principal, puis passe en administrateur (su - ou sudo -i).
+
+Étape A : Création manuelle
+
+Créer l'utilisateur : useradd -m -s /bin/bash stagiaire
+
+        Expertise : -m crée automatiquement son dossier /home/stagiaire et -s lui donne un terminal Bash pour qu'il puisse taper des commandes.
+
+    Définir le mot de passe : passwd stagiaire (choisis un mot de passe simple pour le test).
+
+    Vérification : Tape id stagiaire. Tu verras son UID (User ID) et son GID (Group ID).
+
+Étape B : La notion de Groupe
+
+Sous Linux, on gère les droits par Groupes. On ne donne pas de droits à un individu, mais à une fonction.
+
+    Créer un groupe : groupadd formation
+
+    Ajouter le stagiaire au groupe : usermod -aG formation stagiaire
+
+        Expertise : -aG signifie "Append to Group" (ajouter sans supprimer les anciens groupes).
