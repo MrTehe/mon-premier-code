@@ -1,11 +1,8 @@
-Automatisation : La mission identity_manager.sh
-
-Création de mon premier script Bash.
-
-    Dans la VM, crée un fichier : nano identity_manager.sh.
-
-
 #!/bin/bash
+
+# Automatisation : La mission identity_manager.sh
+# Création de mon premier script Bash.
+# Dans la VM, crée un fichier : nano identity_manager.sh.
 
 # Script d'automatisation : Création d'utilisateur
 echo "--- Début de la création de l'utilisateur stagiaire ---"
@@ -23,6 +20,5 @@ echo "Utilisateur stagiaire créé et ajouté au groupe formation."
 echo "Vérification des infos :"
 id stagiaire
 
-    Rendre script exécutable : chmod +x identity_manager.sh.
-
-    Lancer le : ./identity_manager.sh.
+# Rendre script exécutable : chmod +x identity_manager.sh.
+# Lancer le : ./identity_manager.sh.
