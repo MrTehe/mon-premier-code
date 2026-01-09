@@ -1,0 +1,13 @@
+2. La Hiérarchie des Fichiers (FHS)
+
+Avant de créer des utilisateurs, tu dois savoir où tu mets les pieds. Sous Windows, tout est dans C:. Sous Linux, tout part de la racine notée /.
+
+Voici les dossiers "Cyber" et "TSSR" les plus importants que tu dois connaître :
+
+    /etc : Le dossier le plus critique. Il contient tous les fichiers de configuration du système (réseau, mots de passe, services). C'est là que le TSSR passe 50 % de son temps.
+
+    /home : Là où se trouvent les dossiers personnels des utilisateurs.
+
+    /var/log : Les journaux du système. En cybersécurité, c'est ici qu'on cherche les traces d'une intrusion.
+
+    /root : Le dossier personnel de l'administrateur suprême (à ne pas confondre avec la racine /).

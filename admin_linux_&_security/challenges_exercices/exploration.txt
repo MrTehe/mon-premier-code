@@ -1,0 +1,11 @@
+🧠 Premier défi Linux : Exploration
+
+Pour bien commencer, utilise ton terminal Debian (hôte ou VM) et tape ces deux commandes d'exploration :
+
+    pwd (Print Working Directory) : Pour voir où tu es actuellement.
+
+    ls -l /etc/passwd : Cette commande affiche les informations sur le fichier qui liste les utilisateurs du système.
+
+Ton premier exercice d'observation : Quand tu tapes ls -l /etc/passwd, tu vas voir une suite de lettres au début de la ligne (ex: -rw-r--r--).
+
+    À ton avis, que signifient ces lettres ? (C'est le cœur de notre prochain cours sur les permissions).

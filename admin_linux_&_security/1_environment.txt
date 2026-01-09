@@ -1,0 +1,9 @@
+1. Le choix de l'environnement : Hôte vs VM vs Conteneur
+
+Pour ce module sur l'administration système, voici l'analyse de tes options :
+
+Le Conteneur (vscode ➜) : À éviter ici. Les conteneurs Docker sont des environnements très restreints. Tu ne peux pas y apprendre la gestion réelle du démarrage ou des permissions système profondes, car le conteneur partage le noyau de l'hôte.
+
+Ton Hôte Debian (dudutehe@tehe) : Possible, mais risqué. En tant que TSSR, tu vas manipuler des commandes comme chown (changer le propriétaire) ou chmod (changer les droits). Une erreur de frappe sur un dossier système important pourrait rendre ton ThinkPad instable ou t'empêcher de te connecter.
+
+La VM (Machine Virtuelle) : C'est le choix d'expert. Une VM est un "bac à sable" (Sandboxing). Si tu casses le système, tu peux le réinstaller en 10 minutes ou revenir à un "Snapshot" (un point de sauvegarde).

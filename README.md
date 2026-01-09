@@ -24,6 +24,7 @@ Ce dépôt trace ma progression depuis mes débuts en Python jusqu'à mon object
 - `network_ping.py` : Python appliqué au Réseau (Le script de PING) `os/dotenv`.
 - `port_scanner` : La Couche 4 - Transport (TCP, UDP et les Ports) `nmap/socket`.
 - `web_requester` : La Couche 7 (HTTP) `requests`.
+- `exploration.txt`: Premier défi Linux : Exploration `pwd/ls`.
 
 ---
 *Note : Ce projet est documenté pour préparer mon entrée en TSSR.*
