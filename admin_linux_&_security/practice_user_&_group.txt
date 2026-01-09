@@ -1,4 +1,4 @@
-Connecte-toi à ta VM Debian avec ton compte principal, puis passe en administrateur (su - ou sudo -i).
+Connexion à la VM Debian avec mon compte principal, puis passer en administrateur (su - ou sudo -i).
 
 Étape A : Création manuelle
 

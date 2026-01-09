@@ -1,6 +1,6 @@
 🧠 Défi de commande :
 
-Une fois ces étapes faites, essaye de te connecter avec ce nouvel utilisateur sans redémarrer la VM.
+Une fois ces étapes faites, essaye de ce connecter avec ce nouvel utilisateur sans redémarrer la VM.
 
     Commande à tester : su - stagiaire
 

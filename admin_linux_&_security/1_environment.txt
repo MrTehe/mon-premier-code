@@ -1,6 +1,6 @@
 1. Le choix de l'environnement : Hôte vs VM vs Conteneur
 
-Pour ce module sur l'administration système, voici l'analyse de tes options :
+Pour ce module sur l'administration système, voici l'analyse de mes options :
 
 Le Conteneur (vscode ➜) : À éviter ici. Les conteneurs Docker sont des environnements très restreints. Tu ne peux pas y apprendre la gestion réelle du démarrage ou des permissions système profondes, car le conteneur partage le noyau de l'hôte.
 
