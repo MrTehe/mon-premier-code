@@ -1,0 +1,21 @@
+Devenir le Maître des Accès (chmod numérique)
+
+Maîtriser la méthode numérique du chmod. C'est celle que les pros utilisent car elle est plus rapide et précise.
+
+Chaque droit a une valeur :
+
+    4 : Lecture (r)
+
+    2 : Écriture (w)
+
+    1 : Exécution (x)
+
+On additionne ces chiffres pour chaque catégorie (Propriétaire / Groupe / Autres).
+
+    Exemple : chmod 750 mon_dossier
+
+        7 (4+2+1) : Le propriétaire peut tout faire.
+
+        5 (4+1) : Le groupe peut lire et entrer dans le dossier.
+
+        0 : Les autres ne voient rien du tout.
