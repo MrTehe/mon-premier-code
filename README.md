@@ -13,7 +13,20 @@ Ce dépôt trace ma progression depuis mes débuts en Python jusqu'à mon object
 - [x] Notions Réseaux (Modèle OSI, IP, Subnetting)
 - [ ] L'Administration Linux et la Sécurité des Utilisateurs !
 
-## 🛠️ Exercices terminés (TSSR)
+### 🐧 Administration Linux & Sécurité
+Apprentissage de la gestion des utilisateurs et du modèle de permissions POSIX sur Debian 13.
+
+#### Concepts maîtrisés :
+* **Triade DIC** : Disponibilité, Intégrité, Confidentialité.
+* **Gestion des identités** : Création d'utilisateurs (`useradd`) et de groupes (`groupadd`).
+* **Modèle de permissions** : Utilisation des codes numériques `chmod` (ex: 750, 700).
+* **Automatisation** : Script Bash pour le provisionnement d'utilisateurs.
+
+#### Outils :
+* VM Debian 13 (QEMU/KVM)
+* Scripting Bash
+
+##### 🛠️ Exercices terminés (TSSR)
 - `bases.py` : Les Variables (La Mémoire) `print`.
 - `pratice_bases.py` : Variables + opérations (La Mémoire + La Calculatrice), exercice pratique.
 - `interactif.py` : Rendre ton programme interactif 🗣️ `input/int`.
